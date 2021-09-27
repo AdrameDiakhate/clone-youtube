@@ -1,0 +1,29 @@
+.videos {
+  margin-top: 10px;
+  margin-bottom: 40px;
+  width: 292px;
+  height: 230px;
+  padding-top: 12px;
+}
+.videos-infos {
+  display: flex;
+}
+.channel-image {
+  margin-top: 10px;
+}
+.videos-text {
+  margin-left: 10px;
+}
+.videos-text > h4 {
+  margin-top: 10px;
+  margin-bottom: 5px;
+  font-size: 13px;
+}
+.videos-text > p {
+  margin: 0px;
+  padding: 0px;
+}
+.imageVideo {
+  width: 280px;
+  height: 150px;
+}

@@ -1,0 +1,55 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 5px;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  background-color: #ffffff;
+}
+.header-left {
+  display: flex;
+  align-items: center;
+  margin-left: 25px;
+  flex: 0.2;
+}
+.header-right {
+  display: flex;
+  align-items: center;
+  margin-right: 30px;
+  flex: 0.2;
+}
+.header-center {
+  display: flex;
+  align-items: center;
+  width: 60%;
+}
+.header-input-search {
+  display: flex;
+  flex: 1;
+  border: 1px solid lightgray;
+}
+.input-search {
+  flex: 1;
+  border: none;
+}
+.logo-youtube {
+  object-fit: contain;
+  width: 80px;
+  height: 45px;
+  margin-left: 27px;
+}
+.right-icon {
+  margin-left: 20px;
+}
+.micro-round-icone {
+  margin-left: 10px;
+}
+.search-icon {
+  width: 54px !important;
+  height: 32px !important;
+  background-color: #f0f0f0;
+  color: gray;
+  border-left: 1px solid lightgray;
+}

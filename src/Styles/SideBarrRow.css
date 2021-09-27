@@ -1,0 +1,30 @@
+.sideBarrRow {
+  margin-top: 15px;
+  padding-right: 9px;
+  width: 70px;
+}
+.icon-sideBarr {
+  flex: 1;
+  font-size: 30px !important;
+  margin-left: 25px;
+  color: #606060;
+}
+.title-sideBarr {
+  width: 42px;
+  flex: 1;
+  margin-left: 21px;
+  margin-top: 1px;
+  padding-bottom: 15px;
+  font-size: 10px;
+  font-weight: 500;
+  color: #606060;
+}
+.sideBarrRow:hover {
+  cursor: pointer;
+  width: 100%;
+  padding-right: 9px;
+  background-color: lightgray;
+}
+.icon-sideBarr.selected {
+  color: #000000;
+}
