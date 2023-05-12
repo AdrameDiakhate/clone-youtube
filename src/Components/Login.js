@@ -17,7 +17,7 @@ function Login() {
 
     //console.log(user)
 
-    console.log(user.photoURL)
+    // console.log(user.photoURL)
 
     const dispatch = useDispatch();
 
